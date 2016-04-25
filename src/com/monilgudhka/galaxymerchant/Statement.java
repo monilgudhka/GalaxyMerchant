@@ -9,7 +9,7 @@ import java.text.DecimalFormat;
 
 /**
  *
- * @author monil
+ * @author Monil Gudhka
  */
 abstract class Statement {
     private final String sentence;
